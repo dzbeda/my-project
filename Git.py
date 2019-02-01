@@ -1,2 +1,2 @@
-print ('gitewewe test')
+print ('git1 test')
 print (' secon test')
